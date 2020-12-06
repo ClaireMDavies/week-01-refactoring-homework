@@ -1,1 +1,1 @@
-# week-01-refactoring-homework
+# Week 02 Refactoring Homework
